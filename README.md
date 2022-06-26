@@ -4,6 +4,6 @@
 
 ---
 
-| No  | Name    | Link                                         |
-| --- | ------- | -------------------------------------------- |
-| 1   | counter | [link](najmul-islam-counter-app.netlify.app) |
+| No  | Name    | Link                                                  |
+| --- | ------- | ----------------------------------------------------- |
+| 1   | counter | [link](https://najmul-islam-counter-app.netlify.app/) |
