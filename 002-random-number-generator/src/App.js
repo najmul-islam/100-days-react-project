@@ -1,11 +1,11 @@
-import './App.css';
+import RandomNumberGenerator from "./components/RandomNumberGenerator";
 
-function App() {
+const App = () => {
   return (
-    <div>
-      <h1>Hello World</h1>
-    </div>
+    <>
+      <RandomNumberGenerator />
+    </>
   );
-}
+};
 
 export default App;
